@@ -35,3 +35,13 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$('.ailto-obfuscato').each(function(){
+	var e = "rob";
+	var a = "@";
+	var d = "cintimedia";
+	var c = ".com";
+	var h = 'mailto:' + e + a + d + c;
+	$(this).parent('a').attr('href', h);
+});
+
