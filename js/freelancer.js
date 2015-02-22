@@ -44,4 +44,4 @@ $('.ailto-obfuscato').each(function(){
 	var h = 'mailto:' + e + a + d + c;
 	$(this).parent('a').attr('href', h);
 });
-
+			
