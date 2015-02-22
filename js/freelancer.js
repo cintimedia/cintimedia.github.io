@@ -36,12 +36,32 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
-$('.ailto-obfuscato').each(function(){
-	var e = "rob";
-	var a = "@";
-	var d = "cintimedia";
-	var c = ".com";
-	var h = 'mailto:' + e + a + d + c;
-	$(this).parent('a').attr('href', h);
+$(function() {
+	$('.ailto-obfuscato').each(function(){
+		var e = "rob";
+		var a = "@";
+		var d = "cintimedia";
+		var c = ".com";
+		var h = 'mailto:' + e + a + d + c;
+		$(this).parent('a').attr('href', h);
+	});	
+});
+
+$(function() {
+	$("#skills .skills-tiles .skills-section").isotope({
+	  itemSelector : 'span',
+	  layoutMode: 'fitRows',
+	  transformsEnabled: false,
+	  itemClass: "iso-outer-item",
+	  containerClass: "iso-outer-container",
+	  resizeable: false
+	  });
+
+	  $("#skills .skills-tiles").isotope({
+		  transformsEnabled: false,
+		  itemSelector : '.skills-section',
+		  layoutMode: 'masonry',
+		  resizeable: false
+	  });
 });
 			
