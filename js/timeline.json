@@ -6,7 +6,7 @@
         "date": [
             {
                 "startDate":"1986",
-                "headline":"SDRC (Siemens PLM)",
+                "headline":"SDRC",
                 "text":"Developed the 3D graphics display capabilities of SDRC’s I-DEAS Mechanical CAD software for numerous workstation platforms and 3D graphics APIs. I worked closely with the 3D workstation manufacturers, such as SGI and Hewlett Packard, to optimize SDRC's products for their platforms.",
                 "asset":
                 {
@@ -18,7 +18,7 @@
             },
             {
                 "startDate":"1994",
-                "headline":"Apple (Claris)",
+                "headline":"Apple",
                 "text":"Worked at Claris, Apple's fully owned software subsidiary at the time, as part of the team that built many of Apple’s desktop graphics applications such as ClarisDraw, the successor to MacDraw. I was responsible for porting ClarisDraw and ClarisImpact from Mac to Windows and developing features specific to the Windows versions.",
                 "asset":
                 {
@@ -30,8 +30,8 @@
             },
             {
                 "startDate":"1996",
-                "headline":"SGI (Silicon Graphics)",
-                "text":"Worked closely with key software vendors optimizing their products for SGI's 3D graphics workstations to help gain SGI an advantage over competitive platforms. Aided in driving the adoption of SGI-backed standards, such as OpenGL, by 3D graphics software vendors.",
+                "headline":"SGI",
+                "text":"Worked closely with key software vendors optimizing their products for SGI's 3D graphics workstations to help gain Silicon Graphics an advantage over competitive platforms. Aided in driving the adoption of SGI-backed standards, such as OpenGL, by 3D graphics software vendors.",
                 "asset":
                 {
                     "media":"img/timeline/emp/emp_sgi.jpg",
