@@ -199,7 +199,7 @@ header .intro-text {
 }
 
 section {
-    padding: 60px 0;
+    padding-top: 70px;
 }
 
 section h2 {
@@ -223,6 +223,13 @@ section.success {
     section.first {
         padding-top: 15px;
     }
+}
+
+#about ul, #about p {
+	font-size: 18px;
+}
+#about li {
+	margin-bottom: 5px;
 }
 
 #portfolio .portfolio-item {
