@@ -15,3 +15,8 @@
 		font-size: 20px;
 		line-height: 24px;
 }
+#timeline-embed .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .caption {
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: 700;
+}
