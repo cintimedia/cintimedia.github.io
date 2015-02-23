@@ -67,7 +67,7 @@ $(function() {
 
 var timeline_config = {
     width:              '100%',
-    height:             '500',
+    height:             '550',
     source:             'https://docs.google.com/spreadsheet/pub?key=0AlGcobZjsNU4dEJ2OGh2TnNYT05OaGJXSG9OdUF1M3c&output=html',
     embed_id:           'timeline-embed',               //OPTIONAL USE A DIFFERENT DIV ID FOR EMBED
     start_at_slide:     '5',                            //OPTIONAL START AT SPECIFIC SLIDE
