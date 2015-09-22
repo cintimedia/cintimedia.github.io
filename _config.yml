@@ -22,12 +22,11 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 #social:
-#  - title: linkedin
-#    url: https://www.linkedin.com/in/someone
-
-#  - title: twitter
-#    url: http://twitter.com/rgabbard
-#  - title: github
+title: linkedin
+    url: https://www.linkedin.com/in/robgabbard
+title: twitter
+    url: http://twitter.com/rgabbard
+#title: github
 #    url: http://github.com/rgabbard
 
 # Postal address (add as many lines as necessary)
